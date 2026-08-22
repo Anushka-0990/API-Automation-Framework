@@ -67,7 +67,7 @@ api-automation-framework/
 **Prerequisite:** Python 3.10+
 
 ```bash
-git clone https://github.com/<you>/api-automation-framework
+git clone https://github.com/<Anushka-0990>/api-automation-framework
 cd api-automation-framework
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
